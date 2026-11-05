@@ -1,0 +1,14 @@
+{
+  "name": "website-without-env",
+  "version": "1.0.0",
+  "description": "Tiny Node.js website with settings written directly in the code",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18.13"
+  },
+  "license": "MIT"
+}
